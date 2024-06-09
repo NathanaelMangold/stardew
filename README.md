@@ -7,6 +7,7 @@
 ### Liked Treats
 #### Cow
 ![Brown_Cow](https://github.com/NathanaelMangold/stardew/assets/41338825/4c9c09bb-258d-441f-a97b-ddeb3f6ae324)
+Treat every 5 Days.
 
 | Item | Gold Value |
 |------|------------|
@@ -17,6 +18,7 @@
 
 #### Pig
 ![Pig](https://github.com/NathanaelMangold/stardew/assets/41338825/e9cba478-284f-4529-800e-c9b1d0f1b0da)
+Treat every 3 Days.
 
 | Item | Gold Value |
 |------|------------|
@@ -26,6 +28,7 @@
 
 #### Chicken
 ![White_Chicken](https://github.com/NathanaelMangold/stardew/assets/41338825/bb22bc61-35b4-4786-aac3-3110442c4db0)
+Treat every 4 Days.
 
 | Item | Gold Value |
 |------|------------|
@@ -35,6 +38,7 @@
 
 #### Duck
 ![Duck](https://github.com/NathanaelMangold/stardew/assets/41338825/9f5b3ea1-d092-4eb7-925d-77e48d262294)
+Treat every 4 Days.
 
 | Item | Gold Value |
 |------|------------|
@@ -44,6 +48,7 @@
 
 #### Rabbit
 ![Rabbit](https://github.com/NathanaelMangold/stardew/assets/41338825/8fbd81b2-b37a-4e73-9157-935be50147c0)
+Treat every 4 Days.
 
 | Item | Gold Value |
 |------|------------|
@@ -54,6 +59,7 @@
 
 #### Sheep
 ![Sheep](https://github.com/NathanaelMangold/stardew/assets/41338825/ebdec044-de15-439f-bb60-677e8e11e3ad)
+Treat every 3 Days.
 
 | Item | Gold Value |
 |------|------------|
@@ -63,6 +69,7 @@
 
 #### Goat
 ![Goat](https://github.com/NathanaelMangold/stardew/assets/41338825/a47d2780-3378-4103-beb6-ee43b62f7d63)
+Treat every 4 Days.
 
 | Item | Gold Value |
 |------|------------|
@@ -75,7 +82,7 @@
 #### Pet
 ![Cat_1](https://github.com/NathanaelMangold/stardew/assets/41338825/53e4aff3-b462-4f52-a3c9-a8d528f8efc3)
 ![Dog_2](https://github.com/NathanaelMangold/stardew/assets/41338825/bb23d0b7-8997-4e44-bc8d-59cd7c89a5fc)
-
+Treat every 1 Day.
 
 | Item | Gold Value |
 |------|------------|
@@ -85,6 +92,7 @@
 
 #### Dinosaur
 ![Dinosaur](https://github.com/NathanaelMangold/stardew/assets/41338825/0c8f6239-d1a9-4396-b50d-6d545292e6fe)
+Treat every 4 Days.
 
 | Item | Gold Value |
 |------|------------|
@@ -94,6 +102,7 @@
 
 #### Ostrich
 ![Ostrich](https://github.com/NathanaelMangold/stardew/assets/41338825/1f5e6851-eb27-4515-adc7-031583bb9246)
+Treat every 3 Days.
 
 | Item | Gold Value |
 |------|------------|
